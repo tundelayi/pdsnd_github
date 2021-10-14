@@ -22,3 +22,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Service level agreement
 How long does it take to complete this project
 
+### Project Status
+Completed
+
