@@ -14030,6 +14030,7 @@ While chicago recorded 59.78% of Male , 19.97% of Female and 20.25% of Not Menti
 <div class=" highlight hl-r"><pre><span></span><span class="nf">system</span><span class="p">(</span><span class="s">&#39;python -m nbconvert Explore_bikeshare_data.ipynb&#39;</span><span class="p">)</span>
 </pre></div>
 <div> Your project has been completed</div>
+<div> You can close your browser</div>
 
 </div>
 </div>
